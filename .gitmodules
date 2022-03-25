@@ -1,0 +1,3 @@
+[submodule "ukraine-news"]
+	path = ukraine-news
+	url = https://github.com/ukraine-war-info/ukraine-news
